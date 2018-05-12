@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17095#Bunny-Brown-and-His-Sister-Sue-on-an-Auto-Tour
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-11-18'
 gutenberg_type: Text
